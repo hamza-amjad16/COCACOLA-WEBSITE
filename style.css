@@ -1,0 +1,58 @@
+.abc {
+    color: white !important;
+  }
+  
+  .navbar {
+    word-spacing: 20px;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+  }
+  
+  .navbar-brand {
+    margin-left: 5%;
+  }
+  
+  .btn {
+    border-radius: 12px;
+    padding: 10px;
+  }
+  /* 
+  
+  .carousel-item{
+      height: 100vh;
+  } */
+#abcd {
+
+  
+  border-radius: 20px;
+  border-color: black;
+  border-width: 1px;
+  
+}
+.rayyan {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  
+}
+.zindex1 { 
+  padding-top: 100px;
+  padding-left: 130px;
+}
+.zindex2 {
+  padding-top: 100px;
+  padding-left: 130px;
+  padding-bottom: 60px;
+}
+.brands {
+  padding-left: 20%;
+  padding-bottom: 30px;
+}
+
+
+
+
+
+
+
